@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>exercicio 03</title>
+</head>
+<body>
+    <h1>vamos adicionar alguns simbolos!</h1>
+    <hr>
+    <p>&reg;
+       &copy;
+       &trade;
+       &euro;
+       &pound;
+       &yen;
+       &cent;
+       &delta;
+       &uarr;
+    </p>
+    <p>vamos adicionar alguns emojis!
+        &#x1F60E;&#x1F30D;&#x1F680;
+    </p>
+</body>
+</html>
