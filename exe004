@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>texte com imagens</title>
+</head>
+<body>
+    <h1>testando carga e imagens</h1>
+    <p>abaixo vc vai ver uma imagem que esta na pasta</p>
+    <img src="logo html full.webp" alt="LOGO HTML5">
+    <P>Podemos carregar imagens que estão em sub-pastas</P>
+    <img src="IMAGENS/css full.png" alt="">
+    <p>tambem podemos colocar imagens externas</p>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png" alt="Logo javascript">
+    
+</body>
+</html>
