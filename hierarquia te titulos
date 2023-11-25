@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="html.ico" type="image/x-icon">
+    <title>Hierquia de titulos</title>
+</head>
+<body>
+    <h1>Entendendo portugal</h1>
+    <h2>introdução</h2>
+    <h3>justificativa da tematica</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore inventore eum maiores adipisci ex fuga obcaecati ipsa! Dicta rerum, voluptatem quasi repudiandae magni unde, nulla itaque aperiam facilis magnam delectus!</p>
+    <h3>carater excecional</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore, quaerat exercitationem? Minus laborum doloremque repellat ad amet, nulla nobis nesciunt mollitia consequuntur sunt dolores hic magni. Eligendi aliquid rem suscipit.</p>
+    <h3>perguntas de partida</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, molestiae beatae delectus maxime recusandae voluptatum esse reiciendis quos quo sit adipisci vero alias magni. Temporibus nihil dicta optio eveniet nostrum.</p>
+    <h3>metodologias de investigação</h3>
+    <h4>etapas de investigação</h4>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam, provident fugiat suscipit blanditiis facilis similique ratione ab eaque commodi odio quia molestias nisi, harum ad, optio qui itaque ipsum nihil!</p>
+    <h4>etapas de analise</h4>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Necessitatibus, inventore rerum laudantium quos a blanditiis quibusdam ratione illum sunt dolorem autem dignissimos aspernatur! Impedit quibusdam suscipit, error molestiae praesentium culpa.</p>
+
+
+
+    <h2>Ordenamento do territorio em portugal</h2>
+    <h3>os instrumentos de gestão</h3>
+    <h4>informações de planejamento territorial</h4>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt voluptate, totam tenetur facere ratione quibusdam aperiam accusamus numquam similique aliquam molestiae, illo temporibus rem. Provident eius assumenda quis earum veniam.</p>
+    <h4>regimes territoriais</h4>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem, eaque accusamus voluptatum modi necessitatibus adipisci quibusdam. Ex possimus nihil sint aliquid. Odio aliquam facilis est dolor expedita quibusdam minus deleniti?</p>
+
+
+    
+</body>
+</html>
