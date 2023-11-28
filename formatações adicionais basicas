@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>negrito e italico</title>
+</head>
+<body>
+    <h1>principais formatações</h1>
+    <h2>negrito / destaque</h2>
+    <p>nessa frase temos o negrito<b>texto em negrito</b></p>
+    <p>nesta frase temos o <strong>texto em destaque</strong></p>
+    <h2>italico / enfase</h2>
+    <p>nesta frase temos o termo em italico <i>texto em italico</i></p>
+    <p>nesta frase temos em italico com semantica <em>texto com semantica</em></p>
+    <h2>texto marcado</h2>
+    <p>podemos criar tmb um <mark style="background-color: aqua;">texto marcado</mark> </p>
+    <h2>texto GRANDE e um texto pequeno</h2>
+    <p>aqui esta o texto <big>grande</big> e um texto <small>pequeno</small></p>
+    <h2>texto deletado</h2>
+    <p>podemos marcar um texto excluido indicando que ele esta apagado, ou não esta considerado <del>texto apagado</del></p>
+    <h2>texto inserido</h2>
+    <p>podemos marcar um texto inserido para indicar que ele foi inserido <ins>texto inserido</ins></p>   
+    <h2>texto inserido sem semantica!</h2>
+    <p><u>texto exemplo</u> sem semantica</p>
+    <h2>texto sobrescrito e subscrito</h2>
+    <p>20<sup>3</sup>+ 7 sobrescrito</p>
+    <p>H<sub>2</sub>O subscrito</p>
+
+
+
+    
+</body>
+</html>
