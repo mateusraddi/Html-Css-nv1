@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>outras formatações</title>
+</head>
+<body>
+    <h1>outras formatações</h1>
+    <h2>codigo fonte / pré formatado</h2>
+    <p>o codigo <code>document.getElementById('texte') é escrito em linguagem JavaScript</code></p>
+    <p>outro exemplo é usando um script de linguagem de programação</p>
+<pre>
+    <code>
+n = int(imput('digite um numero: '))
+
+if n % 2 == 0:
+    print(f'o numero {n} é PAR!')
+else:
+    print(f'o numero {n} é IMPAR!')    
+    </code>
+</pre>
+    <H2>sitações simples</H2>
+    <p><q>grandes profissionais aprendem com os melhores professores</q></p>
+    <H2>citações completas</H2>
+    <p>o conceito de interface faz parte do nosso dia a dia</p>
+    <blockquote cite="https://www.google.com.br/books/edition/Desenvolvimento_de_Software_II/lcLFAwAAQBAJ?hl=pt-BR&gbpv=1&dq=HTML+e+CSS&printsec=frontcover/blockquote">A qualidade na construção das interfaces é fundamental para garantir uma interação que traga a sensação de confiança e satisfação para o usuario</blockquote>
+    <h2>abreviação</h2>
+    <p>estou estudando <abbr title="HyperText Markup Language">HTML</abbr> e <abbr title="Cascading Style Sheets">CSS</abbr></p>
+    <H2>Texto invertido</H2>
+    <p><bdo dir="rtl">estou aprendendo a criar texto invertido</bdo></p>
+
+    
+</body>
+</html>
