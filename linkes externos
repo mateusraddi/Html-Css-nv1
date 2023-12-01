@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trabalhando com Links e ancoras</title>
+</head>
+<body>
+    <h1>Usando links externos</h1>
+    <p>Voce pode acessar meu repositorio publico do  <a href="https://github.com/mateusraddi" target="_blank" rel="externos">github</a></p>
+    <p>voce tambem pode acessar meu canal do <a href="https://www.youtube.com/channel/UCRHybhMcJ4D4SEesnObV3Zw">youtube</a></p>
+</body>
+</html>
