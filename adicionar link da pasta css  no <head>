@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estilos CSS</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Capítulo 1</h1>
+    <h2>Capítulo 1.1</h2>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorum doloribus eveniet tenetur consequatur pariatur aspernatur aperiam, ipsum omnis minus voluptates doloremque quas tempora optio quam quo magni culpa ducimus inventore.</p>
+    <h2>Capítulo 1.2</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, necessitatibus sapiente natus non laboriosam qui error omnis, minus rerum vel eum a animi est harum incidunt odio corporis illo placeat?</p>
+    <h1>Capítulo 2</h1>
+    <h2>Capítulo 2.1</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores minus ipsam est ducimus expedita error, tempora quisquam quis nihil doloribus maiores repellendus tenetur nam quasi quas commodi magnam suscipit. Est.</p>
+    <P>
+        <a href="pagina02.html" target="_self">Ir para a pagina 2</a></a>
+
+    </P>
+
+    
+</body>
+</html>
